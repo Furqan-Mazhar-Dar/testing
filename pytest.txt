@@ -1,0 +1,11 @@
+in 
+33 == 33.0 true
+john in d = true
+id1==id2  false
+error 
+error
+[] list 
+{} dictionary
+Only second word is capital otherwisw all small letter(KELLY)
+STR wala answer hai
+
